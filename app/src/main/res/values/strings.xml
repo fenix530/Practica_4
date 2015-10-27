@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Colombia Turistica: Guatape</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Desguatape">Localizado en el oriente antioqueño, es tal vez el municipio más iconográfico de la región. Su gran piedra es el principal atractivo turístico del pueblo, desde allí podrá disfrutar una vista de 360 grados de la exuberante belleza del embalse de Guatape y sus tierras vecinas, los gravados en los Zócalos de las fachadas de las residencias y demás edificaciones representando tradiciones, cuando el nivel del agua de la repesa baja, se puede llegar a observar la cúpula de la Iglesia del viejo Peñol, sin contar el imponente paisaje y la calidez de su gente. </string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Guatape</string>
+    <string name="Agua" translatable="false">Un Pueblo de Aguas Inolvidables</string>
+    <string name="nombre" translatable="false">Hoteles</string>
+    <string name="descripcion" translatable="false">Los Mejores Holtes de Guatape</string>
+    <string name="title_activity_main2">Colombia Turistica: Guatape</string>
+    <string name="espacio" translatable="false"> Espacio </string>
+    <string name="Hotel1">Hotel Los Recuerdos</string>
+    <string name="InfoHotel1" translatable="false">Ubicado a solo 2 Km de la entrada a la Piedra del Peñol, Hotel los Recuerdo es el mas grande y completo Hotel de Guatape, disfruta de todos s servicios para que tengas un tiempo de descanso inolvidable</string>
+    <string name="SercHotel1" translatable="false">Servicios: Zona Humeda: Piscina Climatizada, Turco y Jacuzzi,.  Restauante, Discoteca. Atracciones: Pesca, Lanchas y Gusano, Bicicleta Nautica, Esqui, Yate de Ljo Majestic</string>
+    <string name="TarfHotel1" translatable="false">Tarifas: Precios por Pareja por Noche con 3 Comidas</string>
+    <string name="TarfHotel12" translatable="false">Standar: 300.000       Suite Junior: 370.000   Suite Imperial: 500.000</string>
+    <string name="Hotel2">Hotel Isla Guaca</string>
+    <string name="InfoHotel2" translatable="false">Hotel Isla Guaca un paraíso muy cerca de la ciudad de Medellin; ubicado en la vereda despensas frente al embalse "El Peñol Guatapé". Un lugar ideal para el descanso, la relajación,  donde usted encontrará la paz y la tranquilidad que tanto ha deseado</string>
+    <string name="SerHotel2" translatable="false">Servicios: Ofrecemos actividades Acuáticas como: Bote de pesca, Kayak, bicicleta acuatica, jetsky, sky Nautico y tour por el embalse.</string>
+    <string name="TarfHotel2" translatable="false">Tarifas: Precios por Persona por Noche con 3 Comidas</string>
+    <string name="TarfHotel22" translatable="false">Tienda India: 150.000  Estandar: 200.000 Suite: 275.000</string>
+    <string name="Hotel3">Hotel Tierra Santa</string>
+    <string name="InfoHote3" translatable="false">Ubicado en medio del lago Guatapé, se encuentra un lugar mágico rodeado de bosques, donde sentirás la conexión total con la naturaleza en un ambiente muy privado seguro y tranquilo...</string>
+    <string name="SerHotel3" translatable="false">Servicios: Traslado en lancha de Guatape al Hotel y el regreso, Caminatas Ecológicas, Tour en el Planchon (Domingos y Festivos), Fogata nocturna en la playa, Botes de Remos, Pesca, Cancha Volley Playa y Salon de juegos y Billar Pool</string>
+    <string name="TarfHotel32" translatable="false"> Cabañas Flotantes:490.000 Cabañas BUNGALOW: 390.000 Cabaña CHALET: 390.000 </string>
+    <string name="title_activity_bares">Colombia Turistica: Guatape</string>
+    <string name="Bares" translatable="false">Bares</string>
+    <string name="Bar1" translatable="false">Parrilla Bar la Playita</string>
+    <string name="DesBar1" translatable="false">La Playita es el lugar indicado para disfrutar del paisaje de Guatapé, un excelente servicio de bar y parrilla en el día y en la noche!!!</string>
+    <string name="Bar2" translatable="false">Bar Deportivo ContraGolpe</string>
+    <string name="DesBar2" translatable="false">Es una resto-bar creado para los amantes del fútbol, donde pueden encontrar gran variedad de cervezas y combinarlas con unas ricas alitas de pollo</string>
+    <string name="Bar3" translatable="false">Parrilla Bar Tierra Adentro</string>
+    <string name="DesBar3" translatable="false">Somos un restaurante-Bar de comida típica, donde encontrarás las diferentes comidas que caracterizan nuestro país</string>
+    <string name="title_activity_sitios">Colombia Turistica: Guatape</string>
+    <string name="Sitios" translatable="false">Sitios Turisticos</string>
+    <string name="sitio1" translatable="false">Represa de Guatape</string>
+    <string name="DesSitio1" translatable="false">Tiene una extensión de 2.262 hectáreas y 1.200 millones de mts cúbicos, cuenta con varias marinas y muelles donde se alquilan lanchas y se dan paseos en barcos turísticos y bicicleta marina,allí se pueden practicar los deportes acuáticos como kayak,  vela, esquí acuático.</string>
+    <string name="sitio2" translatable="false">Peñol de Guatape(Piedra del Peñol)</string>
+    <string name="DesSitio2" translatable="false">Se encuentra ubicada a 4 kmts de Guatapé, vía el Peñol, monolito de 200 mts de altura donde se obtiene una vista de 360º sobre la Impresionante represa de Guatape.</string>
+    <string name="sitio3" translatable="false">Parque de Guatape</string>
+    <string name="DesSitio3" translatable="false">Donde se encuentra la iglesia nuestra Señora del Carmen de arquitectura barroca, forrada y estructurada en los techos de su interior por grandes bastiones y vigas de madera haciéndola única en Antioquia, una gran fuente de agua erigida en la plazoleta contribuye a un mayor encanto de este parque.</string>
+    <string name="sitio4" translatable="false">Malecon</string>
+    <string name="DesSitio4" translatable="false">Ubicado  a una cuadra de la plaza principal con 1 kmt de extensión donde se puede disfrutar la mas variada gastronomía en los 25 restaurantes que allí se encuentran, con una vista privilegiada sobre la represa de Guatape.</string>
+    <string name="sitio5" translatable="false">Cable Vuelo</string>
+    <string name="DesSitio5" translatable="false">Se encuentra sobre el malecón de la represa de Guatape se dice que es el mas largo de Antioquia y Colombia por tener 600 mts  de distancia que va sobre las aguas de la represa.</string>
+    <string name="Demografia" translatable="false">Demografia</string>
+    <string name="DesDem" translatable="false">Población Total: 5.279 habitantes</string>
+    <string name="DesDem2" translatable="false">•  Población Urbana: 4.155</string>
+    <string name="DesDem3" translatable="false">•  Población Rural: 1.124</string>
+    <string name="DesDem4" translatable="false">Alfabetismo: 92,3% (2005)</string>
+    <string name="DesDem5" translatable="false">•  Zona urbana: 93,8%</string>
+    <string name="DesDem6" translatable="false">•  Zona rural: 87,8%</string>
+    <string name="DesDem7" translatable="false">Etnografía</string>
+    <string name="DesDem8" translatable="false">Según las cifras presentadas por el DANE del censo 2005, la composición etnográfica del municipio es:</string>
+    <string name="DesDem9" translatable="false">•  Mestizos y blancos (99,96 %)</string>
+    <string name="DesDem10" translatable="false">•  Negros (0,04 %)</string>
+    <string name="title_activity_demografia">Colombia Turistica: Guatape</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="about" translatable="false">Acerca de...</string>
+    <string name="Autor" translatable="false">Aplicacion Hecha por:</string>
+    <string name="Autor1">Diego Armando Orozco Arcila</string>
+    <string name="Autor2" translatable="false">Estudiante de Ingenieria Elctronica</string>
+    <string name="Autor3">Universidad de Antioquia</string>
+</resources>
